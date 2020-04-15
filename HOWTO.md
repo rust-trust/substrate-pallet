@@ -44,7 +44,7 @@ The common pattern here look like:
     default-features = false
     features = ['derive']
     package = 'parity-scale-codec'
-    version = '1.2.0'
+    version = '1.3.0'
     ```
 
 2. Add your library to the `std` feature with its `std` feature enabled
