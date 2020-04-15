@@ -13,7 +13,7 @@ version = "0.1.0"
 description = '<YOUR_PALLET_DESCRIPTION>'
 authors = ["<YOUR_NAME>"]
 edition = '2018'
-homepage = 'https://substrate.dev'
+homepage = '<YOUR_HOMEPAGE>'
 license = 'Unlicense'
 ```
 
