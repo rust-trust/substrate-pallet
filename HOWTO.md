@@ -10,7 +10,7 @@ In the `Cargo.toml` file of this template, you should update the name and author
 [package]
 name = "<YOUR_PALLET_NAME>"
 version = "0.1.0"
-description = 'FRAME pallet template'
+description = '<YOUR_PALLET_DESCRIPTION>'
 authors = ["<YOUR_NAME>"]
 edition = '2018'
 homepage = 'https://substrate.dev'
