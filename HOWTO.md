@@ -10,8 +10,11 @@ In the `Cargo.toml` file of this template, you should update the name and author
 [package]
 name = "<YOUR_PALLET_NAME>"
 version = "0.1.0"
+description = 'FRAME pallet template'
 authors = ["<YOUR_NAME>"]
-edition = "2018"
+edition = '2018'
+homepage = 'https://substrate.dev'
+license = 'Unlicense'
 ```
 
 ## Updating Your Dependencies
@@ -41,7 +44,7 @@ The common pattern here look like:
     default-features = false
     features = ['derive']
     package = 'parity-scale-codec'
-    version = '1.0.0'
+    version = '1.2.0'
     ```
 
 2. Add your library to the `std` feature with its `std` feature enabled
